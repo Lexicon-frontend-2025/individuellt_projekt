@@ -1,5 +1,7 @@
 # Individuellt projekt FE25
-Portfolioprojekt för att visa för framtida arbetsgivare vad ni har lärt er på kursen. Vi lämnar det rätt fritt här, men hitta en balans i att ha med det ni vill visa men samtidigt att ni behärskar tekniken och inte kör copy-paste från AI. (Vill ni göra något som inte är Next.js, t ex något inför er APL så är det ok, men tänk då på att vi lärare inte kan stötta er med koden på samma sätt.)
+Portfolioprojekt för att visa för framtida arbetsgivare vad ni har lärt er på kursen. Vi lämnar det rätt fritt här, men hitta en balans i att ha med det ni vill visa men samtidigt att ni behärskar tekniken och inte kör copy-paste från AI. 
+
+(Vill ni göra något som inte är Next.js, t ex något inför er APL så är det ok, men tänk då på att vi lärare inte kan stötta er med koden på samma sätt. Kolla av med oss om det är så att ni har sådana planer.)
 
 Ni kommer tillhöra en grupp som har till syfte att vara lite bollplank och lite extra stöd i ert individuella arbete.
 
