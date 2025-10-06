@@ -22,6 +22,16 @@ Ska redovisas för lärare innan arbetet med kod börjar
 * “Product Backlog” sorterad efter prioritering, med funktionalitet/features för projektet.
 * Använd tags/etiketter eller dylikt för att ange vad som är viktigaste funktionaliteten och vad som är extra.
 
+### Planeringsytan
+Detta kan vara trello, github projects eller dylikt som ni känner er bekväma med. Här ska er planering med backlog osv finnas. 
+
+* Här lägger ni också ytterligare en kolumn
+* Denna kolumn ligger antingen först av alla eller direkt efter backlog (nr 2). 
+* I den kolumnen lägger ni in alla referenser och skisser osv. Har ni en figma så kan ni göra ett kort med länk till den och några screenshots.
+* Sen kan ni fortsätta så och lägga in olika kort för de referenser ni har. Det är också bra att samla länkar till sidor ni tar inspiration från, lägga in färgscheman eller länkar till olika bibliotek ni ska använda. 
+
+Detta underlättar för oss som ska titta igenom era planeringar, men också för er när ni ska hitta allt och när ni ska skriva dokumentation. 
+
 ### Arbetsordning
 * Sprint planering som utförs individuellt, men som presenteras för grupp för tips och återkoppling.
 * Invididuellt arbete med projekt (om ni vill får ni gärna lägga in fler gruppmöten och standups, men det är frivilligt).
