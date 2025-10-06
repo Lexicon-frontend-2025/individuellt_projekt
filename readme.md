@@ -16,7 +16,7 @@ Ni kommer tillhöra en grupp som har till syfte att vara lite bollplank och lite
 * (Deployment till Vercel eller dylikt om man vill)
 
 ### Planeringsstadie
-Ska redovisas för lärare innan arbetet med kod börjar
+Ska redovisas för lärare innan arbetet med kod börjar. Detta sker via formulär som skickas in senast tisdag 7/10 och via grupper under onsdagen 8/10.
 * Wireframe/designskiss (gör inget om ni kopierar en grund från någon annanstans, viktigaste är att ni har en design att jobba mot)
 * Val av API, db, endpoints, annan extern data i detta.
 * “Product Backlog” sorterad efter prioritering, med funktionalitet/features för projektet.
@@ -28,7 +28,8 @@ Detta kan vara trello, github projects eller dylikt som ni känner er bekväma m
 * Här lägger ni också ytterligare en kolumn
 * Denna kolumn ligger antingen först av alla eller direkt efter backlog (nr 2). 
 * I den kolumnen lägger ni in alla referenser och skisser osv. Har ni en figma så kan ni göra ett kort med länk till den och några screenshots.
-* Sen kan ni fortsätta så och lägga in olika kort för de referenser ni har. Det är också bra att samla länkar till sidor ni tar inspiration från, lägga in färgscheman eller länkar till olika bibliotek ni ska använda. 
+* Sen kan ni fortsätta så och lägga in olika kort för de referenser ni har.
+* Det är också bra att samla länkar till sidor ni tar inspiration från, lägga in färgscheman eller länkar till olika bibliotek ni ska använda. 
 
 Detta underlättar för oss som ska titta igenom era planeringar, men också för er när ni ska hitta allt och när ni ska skriva dokumentation. 
 
