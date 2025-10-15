@@ -41,6 +41,7 @@ Detta underlättar för oss som ska titta igenom era planeringar, men också fö
 ### Redovisning
 Vi återkommer med exakt datum för detta. Innehåll för redovisningen:
 * En demo på er app där ni delar skärm och visar. Inklusive felhantering eller annats som kan vara intressant. Ingen kod utan bara funktionalitet i webbläsaren.
+* Visa/berätta hur ni strukturerade er readme-fil på GitHub för att bäst kommunicera ert projekt.
 * Berätta om något som ni tyckte var extra lärorikt/spännande/roligt med utvecklingen av er app.
 
 ### Utvärdering
